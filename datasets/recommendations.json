@@ -1,0 +1,744 @@
+{
+	"Happy": {
+		"book": [
+			{
+				"book_name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+				"author_name": "Héctor García and Francesc Miralles",
+				"book_icon": "images/books/happy/happy_book1.jpg",
+				"book_buy_link": "https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X",
+				"book_description": "Discover the Japanese concept of 'Ikigai,' which means 'a reason for being.' This book explores the secrets of longevity and happiness through finding purpose and joy in everyday life."
+			},
+			{
+				"book_name": "The Art of Happiness",
+				"author_name": "Dalai Lama and Howard Cutler",
+				"book_icon": "images/books/happy/happy_book2.jpg",
+				"book_buy_link": "https://www.amazon.in/ART-HAPPINESS-Dalai-Lama/dp/0340750154",
+				"book_description": "In this book, the Dalai Lama shares his wisdom on finding inner peace and happiness, offering practical advice and insights from the intersection of Buddhist philosophy and Western psychology."
+			},
+			{
+				"book_name": "Karma: A Yogi's Guide to Crafting Your Destiny",
+				"author_name": "Sadhguru",
+				"book_icon": "images/books/happy/happy_book3.jpg",
+				"book_buy_link": "https://www.amazon.in/KARMA-YOGIS-GUIDE-CRAFTING-DESTINY/dp/0143452673",
+				"book_description": "Sadhguru explores the concept of karma and how our actions shape our destiny. Through ancient wisdom and practical guidance, he offers a path to creating a joyful and fulfilling life."
+			},
+			{
+				"book_name": "The Happiness Advantage",
+				"author_name": "Shawn Achor",
+				"book_icon": "images/books/happy/happy_book4.jpg",
+				"book_buy_link": "[https://www.amazon.in/Happiness-Advantage-Principles-Success-Performance/dp/0753539470",
+				"book_description": "Shawn Achor reveals the science of happiness and success, showing how a positive mindset can lead to greater productivity, resilience, and overall well-being."
+			},
+			{
+				"book_name": "Build the Life You Want: The Art and Science of Getting Happier",
+				"author_name": "Emma Seppälä",
+				"book_icon": "images/books/happy/happy_book5.jpg",
+				"book_buy_link": "https://www.amazon.in/Build-Life-You-Want-Science/dp/184604782X",
+				"book_description": "Emma Seppälä explores the keys to lasting happiness and fulfillment, drawing on research from psychology and neuroscience to provide practical strategies for creating a happier life."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Cat Cow pose",
+				"description": "Cat Cow pose is a gentle flowing sequence that alternates between arching and rounding the spine. From a tabletop position, you inhale and arch your back (cow pose), then exhale and round your back (cat pose). This sequence helps to release tension in the spine and increase flexibility.",
+				"benefits": [
+					"Relieves tension in the spine",
+					"Stretches the back muscles",
+					"Increases flexibility",
+					"Promotes relaxation"
+				],
+				"how_to": "1. Start on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees under your hips.\n2. Inhale as you arch your back, dropping your belly towards the floor and lifting your gaze towards the ceiling (cow pose).\n3. Exhale as you round your back, tucking your chin towards your chest and drawing your belly button towards your spine (cat pose).\n4. Repeat this sequence, flowing smoothly with your breath for several rounds.",
+				"image_link": "images/yoga/happy/happy_yoga1.jpeg",
+				"youtube_link": "https://www.youtube.com/watch?v=vuyUwtHl694"
+			},
+			{
+				"pose_name": "Downward Dog pose",
+				"description": "Downward Dog pose is a foundational yoga pose that involves forming an inverted V shape with your body, with your hands and feet on the ground and your hips lifted towards the sky. This pose helps to stretch and strengthen the entire body, while also calming the mind and relieving stress.",
+				"benefits": [
+					"Stretches the shoulders, hamstrings, calves, and spine",
+					"Strengthens the arms, shoulders, and legs",
+					"Improves circulation",
+					"Calms the mind and relieves stress"
+				],
+				"how_to": "1. Start on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees under your hips.\n2. Exhale as you lift your hips towards the sky, straightening your arms and legs.\n3. Press your hands firmly into the ground and spread your fingers wide apart.\n4. Engage your core muscles and press your heels towards the ground.\n5. Hold the pose for several breaths, then slowly release and return to tabletop position.",
+				"image_link": "images/yoga/happy/happy_yoga2.webp",
+				"youtube_link": "[https://www.youtube.com/watch?v=ayQoxw8sRTk"
+			},
+			{
+				"pose_name": "Bhujangasana",
+				"description": "Bhujangasana, or Cobra pose, is a backbend that involves lifting the chest and upper body off the ground while keeping the lower body grounded. This pose helps to strengthen the back muscles, stretch the chest and shoulders, and improve posture.",
+				"benefits": [
+					"Strengthens the back muscles",
+					"Stretches the chest and shoulders",
+					"Improves posture",
+					"Helps to relieve stress and fatigue"
+				],
+				"how_to": "1. Lie on your stomach with your legs extended and the tops of your feet resting on the ground.\n2. Place your hands under your shoulders, palms flat on the ground and elbows tucked close to your body.\n3. Inhale as you press into your hands and lift your chest and upper body off the ground, keeping your elbows bent.\n4. Draw your shoulders back and down, opening your chest towards the sky.\n5. Hold the pose for several breaths, then exhale and release back down to the ground.",
+				"image_link": "images/yoga/happy/happy_yoga3.jpg",
+				"youtube_link": "https://www.youtube.com/watch?v=fOdrW7nf9gw"
+			},
+			{
+				"pose_name": "Malasana",
+				"description": "Malasana, or Garland pose, is a deep squat that helps to open the hips, groin, and lower back. This pose also strengthens the legs and improves flexibility in the ankles and knees.",
+				"benefits": [
+					"Opens the hips, groin, and lower back",
+					"Strengthens the legs",
+					"Improves flexibility in the ankles and knees",
+					"Stimulates digestion"
+				],
+				"how_to": "1. Stand with your feet slightly wider than hip-width apart, toes turned out slightly.\n2. Bend your knees and lower your hips towards the ground, coming into a deep squat.\n3. Bring your palms together at your heart center and use your elbows to gently press your knees open.\n4. Keep your chest lifted and spine long.\n5. Hold the pose for several breaths, then slowly rise back up to standing.",
+				"image_link": "images/yoga/happy/happy_yoga4.jpg",
+				"youtube_link": "https://www.youtube.com/watch?v=HnM6kfwhzd0"
+			},
+			{
+				"pose_name": "Spine twist on back",
+				"description": "Spine twist on back is a gentle seated twist that helps to increase spinal mobility, stretch the back muscles, and massage the internal organs. This pose promotes relaxation and helps to release tension in the spine and neck.",
+				"benefits": [
+					"Increases spinal mobility",
+					"Stretches the back muscles",
+					"Massages the internal organs",
+					"Promotes relaxation and stress relief"
+				],
+				"how_to": "1. Lie on your back with your legs extended and arms out to the sides in a T position.\n2. Bend your knees and draw them towards your chest.\n3. Exhale as you drop your knees to the right side, twisting your spine.\n4. Keep your shoulders grounded and gaze towards your left hand.\n5. Hold the pose for several breaths, then inhale to return to center and exhale to repeat on the other side.",
+				"image_link": "images/yoga/happy/happy_yoga5.jpg",
+				"youtube_link": "https://www.youtube.com/watch?v=qEVNj4tcr0Y"
+			}
+		]
+	}, 
+	"Sad": {
+		"book": [
+			{
+				"book_name": "The Noonday Demon: An Atlas of Depression",
+				"author_name": "Andrew Solomon",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Andrew Solomon provides a comprehensive and deeply personal exploration of depression, offering insights into its causes, treatments, and impact on individuals and society."
+			},
+			{
+				"book_name": "First, We Make the Beast Beautiful",
+				"author_name": "Sarah Wilson",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Sarah Wilson shares her journey living with anxiety, offering a raw and honest account intertwined with wisdom, humor, and practical strategies for finding beauty in the struggle."
+			},
+			{
+				"book_name": "Feeling Good: The New Mood Therapy",
+				"author_name": "David Burns",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Dr. David Burns presents cognitive-behavioral techniques for overcoming depression and improving mood, providing readers with practical tools to challenge negative thoughts and behaviors."
+			},
+			{
+				"book_name": "The Happiness Trap: How to Stop Struggling and Start Living",
+				"author_name": "Russ Harris",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Russ Harris introduces readers to acceptance and commitment therapy (ACT), offering strategies to break free from the 'happiness trap' and pursue a rich, meaningful life even in the presence of sadness."
+			},
+			{
+				"book_name": "Self-Compassion: The Proven Power of Being Kind to Yourself",
+				"author_name": "Kristin Neff",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Kristin Neff explores the importance of self-compassion in overcoming suffering and cultivating resilience. Through research and personal anecdotes, she demonstrates how being kind to oneself can lead to greater emotional well-being."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Cat-cow flow (Marjari asana)",
+				"description": "The cat-cow flow is a gentle sequence that involves alternating between arching and rounding your back. From a tabletop position, you inhale and arch your back (cow pose), then exhale and round your back (cat pose). This flowing movement helps to release tension in the spine and increase flexibility.",
+				"benefits": [
+					"Relieves tension in the spine",
+					"Stretches the back muscles",
+					"Improves flexibility",
+					"Promotes relaxation"
+				],
+				"how_to": "1. Start on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees under your hips.\n2. Inhale as you arch your back, dropping your belly towards the floor and lifting your gaze towards the ceiling (cow pose).\n3. Exhale as you round your back, tucking your chin towards your chest and drawing your belly button towards your spine (cat pose).\n4. Repeat this sequence, flowing smoothly with your breath for several rounds.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Standing backbend (Ardha chakrasana)",
+				"description": "The standing backbend is a heart-opening pose where you arch your back while standing. You lift your chest and gently lean backward, opening the front of the body. This pose helps to counteract feelings of sadness by energizing and uplifting the body.",
+				"benefits": [
+					"Opens the chest and heart",
+					"Improves posture",
+					"Boosts mood and energy",
+					"Stretches the front of the body"
+				],
+				"how_to": "1. Stand tall with your feet hip-width apart and arms by your sides.\n2. Inhale as you lift your arms overhead, palms facing each other.\n3. Exhale as you gently arch your back, lifting your chest towards the sky.\n4. Keep your thighs engaged and avoid overarching your lower back.\n5. Hold the pose for several breaths, then slowly return to standing.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Standing forward fold (Uttanasana)",
+				"description": "Standing forward fold is a calming pose where you hinge at the hips and fold forward, bringing your torso toward your legs. This pose encourages introspection and relaxation, helping to calm the mind and release tension.",
+				"benefits": [
+					"Stretches the hamstrings and back",
+					"Calms the mind",
+					"Relieves stress and anxiety",
+					"Improves digestion"
+				],
+				"how_to": "1. Stand tall with your feet hip-width apart and arms by your sides.\n2. Exhale as you hinge at the hips and fold forward, bringing your torso towards your thighs.\n3. Bend your knees slightly if necessary to bring your hands to the floor or grasp your ankles.\n4. Relax your head and neck, allowing your spine to lengthen.\n5. Hold the pose for several breaths, then slowly rise back up to standing.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Tree pose (Vrikshasana)",
+				"description": "Tree pose is a balancing pose where you stand on one leg and place the sole of the opposite foot against the inner thigh or calf of the standing leg. This pose helps to improve focus and concentration while promoting a sense of stability and grounding.",
+				"benefits": [
+					"Improves balance and coordination",
+					"Strengthens the legs and ankles",
+					"Enhances focus and concentration",
+					"Promotes a sense of grounding"
+				],
+				"how_to": "1. Stand tall with your feet hip-width apart and arms by your sides.\n2. Shift your weight onto your left foot and lift your right foot off the ground.\n3. Place the sole of your right foot against the inner left thigh or calf, avoiding the knee.\n4. Find a focal point to help maintain balance and bring your hands together at your heart center.\n5. Hold the pose for several breaths, then repeat on the other side.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Child’s pose (Shishu asana)",
+				"description": "Child's pose is a gentle resting pose where you kneel on the floor and sit back on your heels, then fold your torso forward and rest your forehead on the ground. This pose provides a sense of comfort and surrender, allowing you to release tension and find peace.",
+				"benefits": [
+					"Stretches the back and hips",
+					"Relieves tension in the shoulders",
+					"Calms the mind and nervous system",
+					"Promotes deep relaxation"
+				],
+				"how_to": "1. Start on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees under your hips.\n2. Sit back on your heels and separate your knees wide apart.\n3. Exhale as you fold your torso forward, bringing your forehead to the ground and extending your arms overhead or alongside your body.\n4. Relax your entire body and breathe deeply into your back, hips, and shoulders.\n5. Hold the pose for several breaths, then slowly rise back up to a seated position.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			}
+		]
+	}, 
+	"Fear": {
+		"book": [
+			{
+				"book_name": "Feel the Fear... and Do It Anyway",
+				"author_name": "Susan Jeffers",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "This classic self-help book offers practical advice and techniques for facing and overcoming fear. Jeffers provides strategies for taking control of your life and moving beyond fear to achieve your goals."
+			},
+			{
+				"book_name": "The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are",
+				"author_name": "Brené Brown",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "While not solely focused on fear, this book explores topics such as vulnerability, shame, and fear of failure. Brené Brown's insights can help you build courage and resilience in the face of fear."
+			},
+			{
+				"book_name": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+				"author_name": "Brené Brown",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Another powerful book by Brené Brown that delves into the role of vulnerability in overcoming fear and living a wholehearted life."
+			},
+			{
+				"book_name": "The Confidence Gap: A Guide to Overcoming Fear and Self-Doubt",
+				"author_name": "Russ Harris",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "This book combines the principles of acceptance and commitment therapy (ACT) with practical exercises to help you build confidence and overcome fear."
+			},
+			{
+				"book_name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+				"author_name": "Jen Sincero",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "While not specifically about fear, this book is full of inspiring and motivational advice on how to overcome self-doubt and fear to create a life you love."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Sphinx or Seal Pose",
+				"description": "Sphinx or Seal Pose is a gentle backbend that helps to open the chest and stretch the spine. It can help alleviate fear by promoting a sense of grounding and strength.",
+				"benefits": [
+					"Stretches the spine and chest",
+					"Promotes a sense of grounding",
+					"Relieves stress and anxiety",
+					"Strengthens the back muscles"
+				],
+				"how_to": "1. Lie on your stomach with your legs extended behind you.\n2. Place your forearms on the ground, elbows directly under your shoulders, and palms facing down (for Sphinx Pose) or lift your chest further off the ground with your arms straight (for Seal Pose).\n3. Press into your forearms or hands to lift your chest and upper body off the ground.\n4. Keep your shoulders relaxed and away from your ears.\n5. Hold the pose for several breaths, then release back down to the ground.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Melting Heart",
+				"description": "Melting Heart is a variation of Child's Pose that provides a deep stretch for the chest, shoulders, and upper back. This pose can help release tension and fear held in these areas.",
+				"benefits": [
+					"Stretches the chest, shoulders, and upper back",
+					"Relieves tension and fear",
+					"Calms the mind and nervous system",
+					"Promotes relaxation"
+				],
+				"how_to": "1. Start in Child's Pose with your knees wide apart and big toes touching.\n2. Walk your hands forward as far as you can, lowering your chest towards the ground.\n3. Rest your forehead or chin on the ground.\n4. Keep your hips reaching back towards your heels.\n5. Hold the pose for several breaths, focusing on deepening the stretch with each exhale.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Saddle Pose",
+				"description": "Saddle Pose is a deep backbend that stretches the entire front of the body, including the chest, abdomen, and thighs. This pose can help release fear by opening the heart and promoting a sense of vulnerability and surrender.",
+				"benefits": [
+					"Stretches the entire front of the body",
+					"Opens the chest and heart",
+					"Promotes vulnerability and surrender",
+					"Relieves tension and fear"
+				],
+				"how_to": "1. Start in a kneeling position with your knees hip-width apart and your feet pointing straight back.\n2. Slowly lower your upper body backwards, bringing your hands to the ground behind you for support.\n3. Lower your elbows to the ground if possible, or allow your upper body to rest on the ground.\n4. Keep your hips stacked over your knees.\n5. Hold the pose for several breaths, focusing on deepening the stretch with each exhale.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Cat Pulling Its Tail Pose",
+				"description": "Cat Pulling Its Tail Pose is a seated twist that helps to release tension in the spine and improve spinal mobility. Twisting poses can help alleviate fear by promoting a sense of release and letting go.",
+				"benefits": [
+					"Improves spinal mobility",
+					"Relieves tension in the spine",
+					"Promotes a sense of release and letting go",
+					"Calms the mind and nervous system"
+				],
+				"how_to": "1. Sit on the ground with your legs extended in front of you.\n2. Bend your right knee and place your right foot on the outside of your left thigh.\n3. Wrap your left arm around your right knee and reach your right hand behind your back, trying to clasp your left hand.\n4. Inhale to lengthen your spine, then exhale to twist towards the right, gazing over your right shoulder.\n5. Hold the pose for several breaths, then release and repeat on the other side.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Seated Diamond",
+				"description": "Seated Diamond is a calming pose that stretches the inner thighs and groin, promoting relaxation and release of fear held in the hips.",
+				"benefits": [
+					"Stretches the inner thighs and groin",
+					"Promotes relaxation",
+					"Relieves tension and fear held in the hips",
+					"Calms the mind and nervous system"
+				],
+				"how_to": "1. Sit on the ground with your legs extended in front of you.\n2. Bring the soles of your feet together, allowing your knees to open out to the sides.\n3. Hold onto your feet or ankles with your hands.\n4. Lengthen your spine on an inhale, then exhale and fold forward from the hips, bringing your chest towards your feet.\n5. Keep your spine long and avoid rounding your back.\n6. Hold the pose for several breaths, then slowly release and sit back up.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			}
+		]
+	}, 
+	"Surprise": {
+		"book": [
+			{
+				"book_name": "Life of Pi",
+				"author_name": "Yann Martel",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "A captivating story that blurs the lines between reality and imagination, leaving readers surprised and questioning the nature of truth."
+			},
+			{
+				"book_name": "Gone Girl",
+				"author_name": "Gillian Flynn",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "A psychological thriller with unexpected plot twists that will keep readers on the edge of their seats."
+			},
+			{
+				"book_name": "Sapiens: A Brief History of Humankind",
+				"author_name": "Yuval Noah Harari",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "An eye-opening exploration of the history of Homo sapiens, offering surprising insights into human evolution and society."
+			},
+			{
+				"book_name": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+				"author_name": "Steven D. Levitt and Stephen J. Dubner",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "This book examines unconventional topics through the lens of economics, revealing surprising correlations and unexpected connections."
+			},
+			{
+				"book_name": "The Four Agreements: A Practical Guide to Personal Freedom",
+				"author_name": "Don Miguel Ruiz",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "A transformative book offering four powerful agreements that can lead to personal freedom and happiness, surprising readers with its simplicity and depth."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Downward-Facing Dog",
+				"description": "Downward-Facing Dog is a foundational yoga pose that involves forming an inverted V shape with your body, with your hands and feet on the ground and your hips lifted towards the sky. This pose helps to stretch and strengthen the entire body, while also calming the mind and relieving stress.",
+				"benefits": [
+					"Stretches the shoulders, hamstrings, calves, and spine",
+					"Strengthens the arms, shoulders, and legs",
+					"Improves circulation",
+					"Calms the mind and relieves stress"
+				],
+				"how_to": "1. Start on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees under your hips.\n2. Exhale as you lift your hips towards the sky, straightening your arms and legs.\n3. Press your hands firmly into the ground and spread your fingers wide apart.\n4. Engage your core muscles and press your heels towards the ground.\n5. Hold the pose for several breaths, then slowly release and return to tabletop position.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Cobra",
+				"description": "Cobra pose is a backbend that involves lifting the chest and upper body off the ground while keeping the lower body grounded. This pose helps to strengthen the back muscles, stretch the chest and shoulders, and improve posture.",
+				"benefits": [
+					"Strengthens the back muscles",
+					"Stretches the chest and shoulders",
+					"Improves posture",
+					"Helps to relieve stress and fatigue"
+				],
+				"how_to": "1. Lie on your stomach with your legs extended and the tops of your feet resting on the ground.\n2. Place your hands under your shoulders, palms flat on the ground and elbows tucked close to your body.\n3. Inhale as you press into your hands and lift your chest and upper body off the ground, keeping your elbows bent.\n4. Draw your shoulders back and down, opening your chest towards the sky.\n5. Hold the pose for several breaths, then exhale and release back down to the ground.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Bow pose",
+				"description": "Bow pose is a backbend that involves lying on your stomach and lifting your chest and legs off the ground, resembling the shape of a bow. This pose helps to stretch the front of the body, strengthen the back muscles, and improve posture.",
+				"benefits": [
+					"Stretches the entire front of the body, including the chest, abdomen, and thighs",
+					"Strengthens the back muscles",
+					"Improves spinal flexibility",
+					"Helps to relieve stress and fatigue"
+				],
+				"how_to": "1. Lie on your stomach with your legs extended and arms alongside your body.\n2. Bend your knees and reach your hands back to grab onto your ankles.\n3. Inhale as you lift your chest and legs off the ground, kicking your feet into your hands.\n4. Keep your gaze forward and draw your shoulders away from your ears.\n5. Hold the pose for several breaths, then exhale and release back down to the ground.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Wind-Relieving pose",
+				"description": "Wind-Relieving pose is a reclined yoga posture that involves hugging one knee into the chest while extending the other leg straight. This pose helps to stretch the hips, lower back, and hamstrings, while also aiding digestion and relieving gas.",
+				"benefits": [
+					"Stretches the hips, lower back, and hamstrings",
+					"Aids digestion",
+					"Relieves gas and bloating",
+					"Calms the mind and reduces stress"
+				],
+				"how_to": "1. Lie on your back with your legs extended and arms alongside your body.\n2. Exhale as you hug your right knee into your chest, keeping your left leg extended and heel grounded.\n3. Hold onto your right knee with both hands, interlacing your fingers or clasping your hands below the knee.\n4. Keep your shoulders relaxed and spine lengthened.\n5. Hold the pose for several breaths, then switch sides and repeat.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Half Lord of the Fishes pose",
+				"description": "Half Lord of the Fishes pose is a seated twist that involves twisting the spine while sitting on the floor. This pose helps to increase spinal mobility, stretch the back muscles, and stimulate digestion.",
+				"benefits": [
+					"Stretches the spine and back muscles",
+					"Increases spinal mobility",
+					"Aids digestion",
+					"Relieves tension in the shoulders and neck"
+				],
+				"how_to": "1. Sit on the floor with your legs extended in front of you.\n2. Bend your right knee and place your right foot on the outside of your left thigh.\n3. Inhale as you lengthen your spine, then exhale and twist to the right, placing your left elbow on the outside of your right knee.\n4. Place your right hand on the ground behind you for support and gaze over your right shoulder.\n5. Hold the pose for several breaths, then repeat on the other side.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			}
+		]
+	}, 
+	"Neutral": {
+		"book": [
+			{
+				"book_name": "Zero to One",
+				"author_name": "Peter Thiel and Blake Masters",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Explore the secrets of successful startups and entrepreneurship with Peter Thiel, co-founder of PayPal and Palantir, offering unique insights into building the future and creating value in a rapidly changing world."
+			},
+			{
+				"book_name": "Think and Grow Rich",
+				"author_name": "Napoleon Hill",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Discover the timeless principles of success and achievement in Napoleon Hill's classic book, which offers practical strategies for transforming dreams into reality and achieving financial abundance."
+			},
+			{
+				"book_name": "How to Win Friends and Influence People",
+				"author_name": "Dale Carnegie",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Learn the art of interpersonal communication and influence with Dale Carnegie's renowned book, offering timeless advice on building relationships, winning people over, and achieving success."
+			},
+			{
+				"book_name": "The Power of Your Subconscious Mind",
+				"author_name": "Joseph Murphy",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Unlock the potential of your subconscious mind with Joseph Murphy's transformative book, exploring the role of the subconscious in shaping beliefs, habits, and outcomes, and providing practical techniques for harnessing its power."
+			},
+			{
+				"book_name": "The Bankster",
+				"author_name": "Ravi Subramanian",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Dive into the world of finance and intrigue with Ravi Subramanian's gripping thriller, combining elements of banking, corruption, and suspense in a page-turning narrative that keeps readers engaged from start to finish."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Mountain Pose (Tadasana)",
+				"description": "Mountain Pose, also known as Tadasana, is a foundational yoga pose that focuses on standing tall with proper alignment. It is a neutral posture that promotes grounding, stability, and mindfulness.",
+				"benefits": [
+					"Improves posture",
+					"Strengthens thighs, knees, and ankles",
+					"Steadies breathing",
+					"Increases awareness and mindfulness"
+				],
+				"how_to": "1. Stand with your feet together or hip-width apart, depending on your comfort.\n2. Distribute your weight evenly across your feet.\n3. Engage your thigh muscles and lift your kneecaps.\n4. Lengthen your tailbone toward the floor and lift your chest.\n5. Roll your shoulders back and down, extending your arms alongside your body with palms facing forward.\n6. Gaze straight ahead and breathe deeply.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Forward Fold (Uttanasana)",
+				"description": "Forward Fold, or Uttanasana, is a calming yoga pose that gently stretches the spine and hamstrings. It promotes relaxation and can help relieve stress and anxiety.",
+				"benefits": [
+					"Stretches the spine, hamstrings, and calves",
+					"Calms the mind and nervous system",
+					"Relieves stress and anxiety",
+					"Improves digestion"
+				],
+				"how_to": "1. Stand with your feet hip-width apart.\n2. Inhale as you reach your arms overhead.\n3. Exhale as you hinge at the hips and fold forward, bringing your hands towards the ground or grabbing hold of your ankles or legs.\n4. Relax your head and neck, allowing your spine to lengthen.\n5. Hold the pose for several breaths, then slowly rise back up to standing.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Plank Pose (Uttihita Chaturanga Dandasana)",
+				"description": "Plank Pose, or Uttihita Chaturanga Dandasana, is a core-strengthening pose that also works the arms, shoulders, and legs. It helps to build overall strength and stability.",
+				"benefits": [
+					"Strengthens the core muscles",
+					"Works the arms, shoulders, and legs",
+					"Improves posture",
+					"Builds overall strength and stability"
+				],
+				"how_to": "1. Start in a push-up position with your hands shoulder-width apart and wrists directly under your shoulders.\n2. Engage your core muscles and straighten your legs, keeping your body in a straight line from head to heels.\n3. Press firmly into your hands and lift your chest slightly forward.\n4. Hold the pose for several breaths, keeping your body strong and engaged.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Downward-Facing Dog (Adho Mukha Svanasana)",
+				"description": "Downward-Facing Dog, or Adho Mukha Svanasana, is an energizing yoga pose that stretches the entire body while also calming the mind. It helps to build strength, flexibility, and focus.",
+				"benefits": [
+					"Stretches the shoulders, hamstrings, calves, and spine",
+					"Strengthens the arms, shoulders, and legs",
+					"Improves circulation",
+					"Calms the mind and relieves stress"
+				],
+				"how_to": "1. Start on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees under your hips.\n2. Exhale as you lift your hips towards the sky, straightening your arms and legs.\n3. Press your hands firmly into the ground and spread your fingers wide apart.\n4. Engage your core muscles and press your heels towards the ground.\n5. Hold the pose for several breaths, then slowly release and return to tabletop position.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Child’s Pose (Balasana)",
+				"description": "Child’s Pose, or Balasana, is a resting yoga pose that helps to release tension in the back, shoulders, and neck. It promotes relaxation and can be used as a calming posture between more challenging poses.",
+				"benefits": [
+					"Stretches the back, shoulders, and neck",
+					"Relieves tension and stress",
+					"Calms the mind and nervous system",
+					"Promotes relaxation and rest"
+				],
+				"how_to": "1. Kneel on the ground with your big toes touching and knees spread apart.\n2. Sit back on your heels and exhale as you lower your torso between your thighs.\n3. Extend your arms in front of you or alongside your body, palms facing up.\n4. Rest your forehead on the ground and relax your entire body.\n5. Hold the pose for several breaths, focusing on deepening your breath and relaxing further into the posture.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			}
+		]
+	}, 
+	"Angry": {
+		"book": [
+			{
+				"book_name": "Mastering Anger Book",
+				"author_name": "Gina DiMasi",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Gina DiMasi offers practical strategies and techniques for understanding and managing anger effectively. This book provides insights into the root causes of anger and offers step-by-step guidance for mastering this powerful emotion."
+			},
+			{
+				"book_name": "Anger: Wisdom for Cooling the Flames",
+				"author_name": "Thich Nhat Hanh",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Thich Nhat Hanh, a renowned Buddhist monk, offers wisdom and mindfulness practices for transforming anger into compassion and understanding. This book provides practical guidance for cooling the flames of anger and finding peace within oneself."
+			},
+			{
+				"book_name": "Anger: Handling a Powerful Emotion in a Healthy Way",
+				"author_name": "Gary Chapman",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Gary Chapman explores the complexities of anger and provides practical advice for handling this powerful emotion in a healthy and constructive manner. This book offers insights into anger triggers, communication strategies, and conflict resolution techniques."
+			},
+			{
+				"book_name": "Rage: A Step By Step Guide to Overcoming Explosive Anger",
+				"author_name": "Ronald T. Potter-Efron",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Ronald T. Potter-Efron offers a step-by-step guide to overcoming explosive anger and building healthier relationships. This book provides practical exercises, self-assessment tools, and cognitive-behavioral techniques for managing rage and finding emotional balance."
+			},
+			{
+				"book_name": "The Anger Trap",
+				"author_name": "Les Carter",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Les Carter delves into the dynamics of anger and explores the traps that can keep individuals stuck in cycles of resentment and hostility. This book offers insights into breaking free from the anger trap and finding peace and fulfillment."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Balasana (Child’s pose)",
+				"description": "Child's pose is a calming and grounding posture where you kneel on the floor, then fold your torso forward and rest your forehead on the ground. This pose helps to release tension in the back, neck, and shoulders, promoting relaxation and a sense of surrender.",
+				"benefits": [
+					"Relieves tension in the back, neck, and shoulders",
+					"Calms the mind and nervous system",
+					"Promotes deep relaxation and surrender",
+					"Stretches the hips and thighs"
+				],
+				"how_to": "1. Kneel on the floor with your big toes touching and knees apart.\n2. Sit back on your heels and exhale as you fold your torso forward.\n3. Rest your forehead on the ground and extend your arms in front of you or alongside your body.\n4. Stay in this position for several breaths, focusing on deep, slow breathing.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Matsyasana (Fish pose)",
+				"description": "Fish pose is a heart-opening posture where you lie on your back and arch your chest upward, lifting your heart toward the sky. This pose helps to release tension in the chest and shoulders, improve posture, and promote feelings of openness and compassion.",
+				"benefits": [
+					"Opens the chest and heart",
+					"Improves posture",
+					"Relieves tension in the chest and shoulders",
+					"Promotes feelings of openness and compassion"
+				],
+				"how_to": "1. Lie on your back with your legs extended and arms alongside your body.\n2. Press your forearms and elbows into the ground as you inhale and lift your chest upward.\n3. Arch your back and lift your heart toward the sky, allowing your head to gently fall back.\n4. Hold the pose for several breaths, then release and relax back onto the ground.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Sukhasana (Easy pose)",
+				"description": "Sukhasana, or Easy pose, is a simple seated posture where you sit cross-legged on the floor with a straight spine. This pose helps to calm the mind, improve posture, and facilitate deep breathing.",
+				"benefits": [
+					"Calms the mind",
+					"Improves posture",
+					"Facilitates deep breathing",
+					"Opens the hips and stretches the knees and ankles"
+				],
+				"how_to": "1. Sit on the floor with your legs crossed, one foot in front of the other.\n2. Rest your hands on your knees or in your lap, palms facing up or down.\n3. Lengthen your spine and relax your shoulders.\n4. Close your eyes and focus on your breath, holding the pose for several minutes.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Sarvangasana (Shoulder stand pose)",
+				"description": "Shoulder stand pose is an inversion where you balance on your shoulders with your legs extended upward. This pose helps to calm the mind, improve circulation, and relieve stress and tension.",
+				"benefits": [
+					"Calms the mind",
+					"Improves circulation",
+					"Relieves stress and tension",
+					"Stimulates the thyroid gland"
+				],
+				"how_to": "1. Lie on your back with your arms alongside your body and palms facing down.\n2. Inhale and lift your legs and hips off the ground, bringing your legs perpendicular to the floor.\n3. Support your lower back with your hands and lift your legs upward, aiming to stack your hips over your shoulders.\n4. Keep your neck long and gaze toward your chest, holding the pose for several breaths.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Savasana",
+				"description": "Savasana, or Corpse pose, is a relaxation posture where you lie flat on your back with your arms and legs extended, palms facing up. This pose helps to integrate the benefits of your yoga practice, promoting deep relaxation and rejuvenation.",
+				"benefits": [
+					"Promotes deep relaxation",
+					"Reduces stress and anxiety",
+					"Facilitates integration of yoga practice",
+					"Calms the nervous system"
+				],
+				"how_to": "1. Lie on your back with your legs extended and arms alongside your body, palms facing up.\n2. Close your eyes and relax your entire body, releasing any tension or effort.\n3. Focus on your breath, allowing it to become slow and steady.\n4. Remain in this posture for several minutes, allowing your body and mind to completely relax.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			}
+		]
+	}, 
+	"Disgust": {
+		"book": [
+			{
+				"book_name": "Radical Acceptance: Embracing Your Life With the Heart of a Buddha",
+				"author_name": "Tara Brach",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Tara Brach offers insights into accepting difficult emotions, including disgust, and practicing self-compassion to cultivate inner peace and emotional resilience."
+			},
+			{
+				"book_name": "The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are",
+				"author_name": "Brené Brown",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Brené Brown explores the importance of embracing vulnerability and imperfection, providing guidance for finding courage and self-worth amidst feelings of disgust."
+			},
+			{
+				"book_name": "Pride and Prejudice",
+				"author_name": "Jane Austen",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Delve into the world of 19th-century England with this classic novel by Jane Austen, offering wit, romance, and social commentary that can provide a welcome escape from feelings of disgust."
+			},
+			{
+				"book_name": "To Kill a Mockingbird",
+				"author_name": "Harper Lee",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "Harper Lee's Pulitzer Prize-winning novel addresses themes of prejudice, injustice, and moral growth, offering a compelling narrative that can inspire reflection and empathy during times of disgust."
+			},
+			{
+				"book_name": "Good Omens",
+				"author_name": "Neil Gaiman and Terry Pratchett",
+				"book_icon": "[Image]",
+				"book_buy_link": "[Buy Link]",
+				"book_description": "A humorous and imaginative tale about an angel and a demon teaming up to prevent the apocalypse, offering a lighthearted escape from feelings of disgust."
+			}
+		],
+		"yoga_poses": [
+			{
+				"pose_name": "Forward Fold",
+				"description": "Forward fold is a calming yoga pose where you bend forward from the hips, bringing your torso toward your legs. This pose helps to release tension in the back, hamstrings, and neck, while also calming the mind and relieving stress.",
+				"benefits": [
+					"Stretches the back, hamstrings, and calves",
+					"Calms the mind",
+					"Relieves stress and anxiety",
+					"Improves digestion"
+				],
+				"how_to": "1. Stand tall with your feet hip-width apart and arms by your sides.\n2. Inhale as you reach your arms overhead.\n3. Exhale as you hinge at the hips and fold forward, bringing your hands towards the ground or grabbing hold of your ankles or legs.\n4. Relax your head and neck, allowing your spine to lengthen.\n5. Hold the pose for several breaths, then slowly rise back up to standing.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Seated Twist Pose",
+				"description": "Seated twist pose is a gentle twisting posture performed while seated. It helps to stretch the spine, increase spinal mobility, aid digestion, and detoxify the body.",
+				"benefits": [
+					"Stretches the spine and shoulders",
+					"Increases spinal mobility",
+					"Aids digestion",
+					"Detoxifies the body"
+				],
+				"how_to": "1. Sit on the floor with your legs extended in front of you.\n2. Bend your right knee and place your right foot on the outside of your left knee.\n3. Inhale as you lengthen your spine, then exhale and twist to the right, bringing your left elbow to the outside of your right knee.\n4. Place your right hand on the floor behind you for support and gaze over your right shoulder.\n5. Hold the pose for several breaths, then repeat on the other side.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Plow Pose",
+				"description": "Plow pose is an inversion where you lie on your back and lift your legs overhead, bringing your toes to the ground behind your head. This pose helps to stretch the spine, shoulders, and hamstrings, while also calming the nervous system and relieving stress.",
+				"benefits": [
+					"Stretches the spine, shoulders, and hamstrings",
+					"Calms the nervous system",
+					"Relieves stress and fatigue",
+					"Improves digestion"
+				],
+				"how_to": "1. Lie on your back with your arms alongside your body, palms facing down.\n2. Inhale as you lift your legs overhead, bringing your toes to the ground behind your head.\n3. Support your lower back with your hands or interlace your fingers behind your back and straighten your arms.\n4. Keep your legs straight and engage your core muscles.\n5. Hold the pose for several breaths, then slowly release and return to lying flat on your back.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Happy Baby",
+				"description": "Happy baby pose is a playful yoga posture where you lie on your back and hold onto the outside edges of your feet, bringing your knees towards your armpits. This pose helps to stretch the hips, groin, and lower back, while also calming the mind and relieving stress.",
+				"benefits": [
+					"Stretches the hips, groin, and lower back",
+					"Calms the mind",
+					"Relieves stress and tension",
+					"Promotes a sense of playfulness and joy"
+				],
+				"how_to": "1. Lie on your back with your knees bent and feet flat on the floor.\n2. Exhale as you draw your knees towards your chest.\n3. Inhale as you reach for the outside edges of your feet with your hands.\n4. Open your knees wider than your torso and bring them towards your armpits.\n5. Gently rock from side to side to massage your spine.\n6. Hold the pose for several breaths, then release and extend your legs back out.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			},
+			{
+				"pose_name": "Pigeon Pose",
+				"description": "Pigeon pose is a hip-opening yoga posture where you bring one knee forward and out to the side, with the opposite leg extended behind you. This pose helps to release tension in the hips, groin, and lower back, while also promoting emotional release and letting go.",
+				"benefits": [
+					"Stretches the hips, groin, and lower back",
+					"Relieves tension and tightness",
+					"Promotes emotional release",
+					"Encourages surrender and letting go"
+				],
+				"how_to": "1. Start in a tabletop position on your hands and knees.\n2. Bring your right knee towards your right wrist and angle your right foot towards your left hip.\n3. Extend your left leg straight back behind you, keeping your hips square.\n4. Inhale as you lengthen your spine, then exhale and fold forward over your front leg.\n5. Rest your forehead on the ground or on a block and relax into the stretch.\n6. Hold the pose for several breaths, then switch sides and repeat.",
+				"image_link": "[Image Link]",
+				"youtube_link": "[YouTube Link]"
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood-Based Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Mood-Based Recommendations</h1>
+        <p>Welcome to our Mood-Based Recommendation System! This project aims to predict your mood from an image and provide personalized recommendations for music, movies, books, and yoga poses to enhance your emotional well-being.</p>
+        
+        <form action="{{ url_for('result') }}" method="post" enctype="multipart/form-data">
+            <div class="upload-section">
+                <label for="image-upload">Upload an Image:</label>
+                <input type="file" name="image" id="image-upload" accept="image/*">
+            </div>
+            <div class="capture-section">
+                <label>Or Capture an Image:</label>
+                <div id="video-container">
+                    <video id="video" width="320" height="240" autoplay></video>
+                    <button type="button" id="capture">Capture</button>
+                </div>
+                <canvas id="canvas" width="320" height="240" style="display:none;"></canvas>
+                <img id="captured-image" style="display:none;" />
+                <div id="recapture-options" style="display:none;">
+                    <button type="button" id="recapture">Recapture</button>
+                </div>
+                <input type="hidden" name="captured_image" id="captured_image">
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+        <a href="{{ url_for('developers') }}" class="link">Meet the Developers</a>
+        <footer>
+            <p>&copy; {{ year }} Mood-Based Recommendations. All Rights Reserved.</p>
+        </footer>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

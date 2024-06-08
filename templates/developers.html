@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developers</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Meet the Developers</h1>
+        <div class="developer-cards">
+            {% for developer in developers %}
+                <div class="developer-card">
+                    <img src="{{ url_for('static', filename=developer.image) }}" alt="{{ developer.name }}">
+                    <div class="developer-info">
+                        <h2>{{ developer.name }}</h2>
+                        <p><strong>Email:</strong> {{ developer.email }}</p>
+                        <p><strong>Roll:</strong> {{ developer.roll }}</p>
+                        <p><strong>Phone:</strong> {{ developer.phone }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <a href="{{ url_for('index') }}" class="link">Home</a>
+        <footer>
+            <p>&copy; {{ year }} Mood-Based Recommendations. All Rights Reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

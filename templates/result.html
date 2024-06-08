@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations for {{ mood }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Recommendations for "{{ mood }}" Mood</h1>
+
+        <section class="recommendation-section music-section">
+            <h2>Top 5 Music Recommendations</h2>
+            <ul class="recommendation-list">
+                {% for song in songs %}
+                    <li>{{ song.name }} by {{ song.artist }}</li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section class="recommendation-section movie-section">
+            <h2>Top 5 Movie Recommendations</h2>
+            <ul class="recommendation-list">
+                {% for movie in movies %}
+                    <li>
+                        <strong>{{ movie.title }}</strong><br>
+                        <a href="{{ movie.imdb }}" target="_blank">IMDb</a> |
+                        <a href="{{ movie.youtube }}" target="_blank">YouTube</a> |
+                        <a href="{{ movie.wikipedia }}" target="_blank">Wikipedia</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section class="recommendation-section book-section">
+            <h2>Top 5 Book Recommendations</h2>
+            <ul class="recommendation-list">
+                {% for book in books_yogas.book %}
+                    <li>
+                        <img src="{{ url_for('static', filename=book.book_icon) }}" alt="{{ book.book_name }}" class="book-icon">
+                        <strong>{{ book.book_name }}</strong> by {{ book.author_name }}<br>
+                        <strong>Descriptions:</strong><br>
+                        {{ book.book_description }}<br>
+                        <a href="{{ book.book_buy_link }}" target="_blank">Buy Link</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <section class="recommendation-section yoga-section">
+            <h2>Top 5 Yoga Poses</h2>
+            <ul class="recommendation-list">
+                {% for pose in books_yogas.yoga_poses %}
+                    <li>
+                        <img src="{{ url_for('static', filename=pose.image_link) }}" alt="{{ pose.pose_name }}" class="yoga-pose-icon">
+                        <strong>{{ pose.pose_name }}</strong><br>
+                        {{ pose.description }}<br>
+                        <b><p>Benefits:</p></b>
+                        <ul class="benefit-list">
+                            {% for benefit in pose.benefits %}
+                                <li>{{ benefit }}</li>
+                            {% endfor %}
+                        </ul>
+                        <b><p>How to Perform:</p></b>
+                        <p>{{ pose.how_to }}</p>
+                        <a href="{{ pose.youtube_link }}" target="_blank">YouTube Link</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+        <a href="{{ url_for('developers') }}" class="link">Meet the Developers</a>
+        <a href="{{ url_for('index') }}" class="link">Home</a>
+        <footer>
+            <p>&copy; {{ year }} Mood-Based Recommendations. All Rights Reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
